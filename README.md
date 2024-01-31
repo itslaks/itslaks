@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lakshan
 - 👀 I’m interested in Data Stuffs that is Handling and Visualizing them 
-- 🌱 I’m currently learning Artificial Intelligence And Data Science D
-- 💞️ I’m looking to collaborate on Data Science Oriented Stuffs
+- 🌱 I’m currently learning Artificial Intelligence And Data Science 
+- 💞️ I’m looking to collaborate on Data Science Oriented Projects
 - 📫 Everyone can reach me through insta - lakshan_sj
 - ⚡ Fun fact: I am an Ambivert 
 
